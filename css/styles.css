@@ -17,3 +17,7 @@
   background-color: #fff;
   color:#212121;
 }
+
+#tooyoung, #votingage {
+  display:none;
+}
